@@ -1,0 +1,5 @@
+1. Electronics is the highest revenue-generating category, contributing the largest share of total sales.
+2. The United States leads in total sales, followed by India and the United Kingdom.
+3. High-Value customer segment contributes significantly more revenue compared to other segments.
+4. Low-Value customers generate higher transaction counts but lower overall revenue.
+5. Sales performance varies across regions, indicating country-specific demand patterns.

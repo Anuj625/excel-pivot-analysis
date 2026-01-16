@@ -6,10 +6,10 @@ To analyze an e-commerce dataset using Excel pivot tables and dashboards.
 ## Pivot Analysis Overview
 
 ### Sales by Country and Customer Segment
-![Sales by Country Pivot](images/pivot_sales_by_country.png)
+![Sales by Country Pivot](pivot_sales_by_country.png)
 
 ### Total Sales by Category
-![Sales by Category Chart](images/pivot_chart_sales_by_category.png)
+![Sales by Category Chart](pivot_chart_sales_by_category.png)
 
 
 ## Key Insights
